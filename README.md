@@ -5,6 +5,6 @@
 ### Expertises:
 #### Not an expert in anything for now
 ### My Motto:
-#### Silence.
+#### ```Silence.```
 
 ##### Discord: janpstrunn
