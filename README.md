@@ -9,6 +9,6 @@
 <br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yilmazcabuk" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/discord.svg" height="30" width="40" />
 </p>
 ##### Discord: janpstrunn
