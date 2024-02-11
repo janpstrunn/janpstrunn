@@ -1,15 +1,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janpstrunn&label=Profile%20views&color=0e75b6&style=flat" alt="janpstrunn" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=janpstrunn" alt="janpstrunn" /></a> </p>
+## Whoami
+**A Linux User who dives into the advanced ways of using it, day after day...**
 
-- ## Whoami
-- **A Linux User who dives into the advanced ways of using it, day after day...**
+## Expertises
+**Not an expert in anything for now. The only thing I know for real is that I don't know anything**
 
-- ## Expertises
-- **Not an expert in anything for now. The only thing I know for real is that I don't know anything**
-
-- ## Motto
-- **```>. Silence```**
+## Motto
+**```>. Silence```**
 
 <h3 align="left">Find me At:</h3>
 <p align="left">
