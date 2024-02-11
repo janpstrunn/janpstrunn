@@ -6,10 +6,6 @@
 #### Not an expert in anything for now. The only thing I know for real is that I don't know anything
 ### Motto:
 #### ```>. Silence```
-<br>
-<h3 align="center">Find me at:</h3>
-<div class="image-container">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/discord.svg" height="30" width="40" />
-    <div class="text-overlay">janpstrunn</div>
-</div>
-<br>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
