@@ -16,7 +16,7 @@
 <a href="Weblate" target="blank"><img align="center" src="https://docs.weblate.org/en/latest/_static/logo-128.png" alt="janpstrunn" height="45" width="60" /></a>
 </p>
 <p align="center">
-**janpstrunn**
+<b>janpstrunn</b>
 </p>
 
 <h3 align="left">Interests</h3>
