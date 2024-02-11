@@ -6,5 +6,5 @@
 #### Not an expert in anything for now. The only thing I know for real is that I don't know anything
 ### Motto:
 #### ```>. Silence```
-https://hosted.weblate.org/accounts/profile/
+[Discord](https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/Discord-Logo.png)
 ##### Discord: janpstrunn
