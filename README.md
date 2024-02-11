@@ -9,8 +9,8 @@
 ## Motto
 **```>. Silence```**
 
-<h3 align="left">Find me At:</h3>
-<p align="left">
+<h3 align="center">Find me At:</h3>
+<p align="center">
 <a href="https://discord.gg/janpstrunn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="janpstrunn" height="30" width="40" /></a>
 </p>
 <p align="center">
