@@ -1,6 +1,6 @@
 <h1 align="center">N1DH0GG (a.k.a janpstrunn)</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=janpstrunn&label=Profile%20views&color=0e75b6&style=flat" alt="janpstrunn" /> </p>
-<p align="left"> <a href="Code" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/sRFEa8lbeC7zbcIZZR/giphy.gif" alt="bash" width="100" /> </a>
+<p align="left"> <a href="Code" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/sRFEa8lbeC7zbcIZZR/giphy.gif" alt="bash" width="1000" /> </a>
 <p align="right"> <a href="Brasil" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/international-flags-map-markers/90/brazil-brasil-country-flag-512.png" alt="bash" width="75" height="80"/> </a>
 
 ## Whoami
@@ -26,8 +26,8 @@
 <p align="center"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60" height="60"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a></p>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=janpstrunn&show_icons=true&theme=onedark&locale=en&layout=compact" height="160" alt="janpstrunn" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=janpstrunn&show_icons=true&theme=onedark&locale=en" height="160" alt="janpstrunn" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=janpstrunn&theme=onedark&" height="160" alt="janpstrunn" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=janpstrunn&show_icons=true&theme=radical&locale=en&layout=compact" height="160" alt="janpstrunn" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=janpstrunn&show_icons=true&theme=radical&locale=en" height="160" alt="janpstrunn" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=janpstrunn&theme=radical&" height="160" alt="janpstrunn" /></p>
 </div>
 
