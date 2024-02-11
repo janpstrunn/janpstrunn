@@ -25,9 +25,9 @@
 <p align="center"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60" height="60"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a></p>
 
 <div align="center">
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=janpstrunn&show_icons=true&theme=dracula&locale=en" height="150" alt="janpstrunn" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=janpstrunn&show_icons=true&theme=dracula&locale=en" height="150" alt="janpstrunn" /></p>
   
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=janpstrunn&show_icons=true&theme=dracula&locale=en&layout=compact" height="150" alt="janpstrunn" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janpstrunn&show_icons=true&theme=dracula&locale=en&layout=compact" height="150" alt="janpstrunn" /></p>
   
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=janpstrunn&theme=dracula&" height="150" alt="janpstrunn" /></p>
 </div>
