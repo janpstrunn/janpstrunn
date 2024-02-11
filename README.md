@@ -1,6 +1,6 @@
 <h1 align="center">N1DH0GG (a.k.a janpstrunn)</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=janpstrunn&label=Profile%20views&color=0e75b6&style=flat" alt="janpstrunn" /> </p>
-<p align="left"> <a href="Code" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/sRFEa8lbeC7zbcIZZR/giphy.gif" alt="bash" width="1000" /> </a>
+<p align="left"> <a href="Code" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/sRFEa8lbeC7zbcIZZR/giphy.gif" alt="bash" width="1000" height="80" /> </a>
 <p align="right"> <a href="Brasil" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/international-flags-map-markers/90/brazil-brasil-country-flag-512.png" alt="bash" width="75" height="80"/> </a>
 
 ## Whoami
