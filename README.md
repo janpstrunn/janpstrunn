@@ -9,7 +9,7 @@
 **Not an expert in anything for now. The only thing I know for real is that I don't know anything**
 
 ## Motto
-**```>. Silence```**
+**👀 see the 🌠 🔆 over this cruel 🌐**
 
 <h3 align="center">Find me at:</h3>
 <p align="center">
@@ -28,6 +28,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=janpstrunn&show_icons=true&theme=radical&locale=en&layout=compact" height="160" alt="janpstrunn" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=janpstrunn&show_icons=true&theme=radical&locale=en" height="160" alt="janpstrunn" /></p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=janpstrunn&theme=radical&" height="160" alt="janpstrunn" /></p>
-</div>
 <br></br><br></br><br></br><br></br>
-<div align="center"><h5>👀 see the 🌠 🔆 over this cruel 🌐</h5></div>
+**```>. Silence```**
