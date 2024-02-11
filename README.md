@@ -30,4 +30,4 @@
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=janpstrunn&theme=radical&" height="160" alt="janpstrunn" /></p>
 </div>
 
-<h6 align="center">👀 see the ⭐ 🔆 over this cruel 🌐</h6>
+<div align="center"><h6>👀 see the ⭐ 🔆 over this cruel 🌐</h6></div>
