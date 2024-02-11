@@ -7,9 +7,9 @@
 ### Motto:
 #### ```>. Silence```
 <br>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/discord.svg" height="30" width="40" />
+<h3 align="center">Find me at:</h3>
+<div class="image-container">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/discord.svg" height="30" width="40" />
     <div class="text-overlay">janpstrunn</div>
-</p>
+</div>
 <br>
