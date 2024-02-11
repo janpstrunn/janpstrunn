@@ -26,9 +26,7 @@
 
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=janpstrunn&show_icons=true&theme=dracula&locale=en&layout=compact" height="160" alt="janpstrunn" /></p>
-  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=janpstrunn&show_icons=true&theme=dracula&locale=en" height="165" alt="janpstrunn" /></p>
-  
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=janpstrunn&theme=dracula&" height="165" alt="janpstrunn" /></p>
 </div>
 
