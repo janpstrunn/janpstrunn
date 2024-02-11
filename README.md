@@ -29,5 +29,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=janpstrunn&show_icons=true&theme=radical&locale=en" height="160" alt="janpstrunn" /></p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=janpstrunn&theme=radical&" height="160" alt="janpstrunn" /></p>
 </div>
-<br></br><br></br>
+<br></br><br></br><br></br><br></br>
 <div align="center"><h6>👀 see the ⭐ 🔆 over this cruel 🌐</h6></div>
