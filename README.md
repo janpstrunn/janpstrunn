@@ -14,8 +14,8 @@
 <h3 align="center">Find me at:</h3>
 <p align="center">
 <a href="Discord" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-2-1.png" alt="janpstrunn" height="45" width="60" /></a>
-<a href="Devtranet" target="https://hosted.weblate.org/user/janpstrunn/"><img align="center" src="https://media.licdn.com/dms/image/C4D0BAQHHMOoUa8WZrw/company-logo_200_200/0/1660671181357?e=2147483647&v=beta&t=ZZkHm19nsvKzGmmfR3QhElY_iZUu37MYYMbHRsTZ11U" alt="janpstrunn" height="45" width="60" /></a>
-<a href="Weblate" target="blank"><img align="center" src="https://docs.weblate.org/en/latest/_static/logo-128.png" alt="janpstrunn" height="45" width="60" /></a>
+<a href="Devtranet" target="blank"><img align="center" src="https://media.licdn.com/dms/image/C4D0BAQHHMOoUa8WZrw/company-logo_200_200/0/1660671181357?e=2147483647&v=beta&t=ZZkHm19nsvKzGmmfR3QhElY_iZUu37MYYMbHRsTZ11U" alt="janpstrunn" height="45" width="60" /></a>
+<a href="Weblate" target="https://hosted.weblate.org/user/janpstrunn/"><img align="center" src="https://docs.weblate.org/en/latest/_static/logo-128.png" alt="janpstrunn" height="45" width="60" /></a>
 </p>
 <p align="center">
 <b>janpstrunn</b>
