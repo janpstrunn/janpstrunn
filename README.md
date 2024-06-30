@@ -1,4 +1,4 @@
-<h1 align="center">ARGUS (a.k.a. janpstrunn)</h1>
+<h1 align="center">Janpstrunn</h1>
 <p align="right"> <a href="Brasil" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/international-flags-map-markers/90/brazil-brasil-country-flag-512.png" alt="Brazil Flag" width="75" height="80"/> </a>
 
 ## Whoami
