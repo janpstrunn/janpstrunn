@@ -11,10 +11,11 @@
 > "Less is more"
 
 > "You better off starting imperfectly than being paralyzed by the hope or the delusion of the perfection" - Ryan Holiday
-
+<a rel="me" href="https://qoto.org/@janpstrunn">Mastodon</a>
 <h3 align="center">Find me at:</h3>
 <p align="center">
 <a href="Discord" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-2-1.png" alt="Discord" height="45" width="60" /></a>
+<a rel="me" href="https://qoto.org/@janpstrunn" target="blank"><img align="center" src="https://joinmastodon.org/logos/logo-purple.svg" alt="Mastodon" height="45" width="60" /></a>
 <a href="https://hosted.weblate.org/user/janpstrunn/" target="blank"><img align="center" src="https://docs.weblate.org/en/latest/_static/logo-128.png" alt="Weblate" height="45" width="60" /></a>
 </p>
 <p align="center">
