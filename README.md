@@ -11,10 +11,10 @@
 
 1. <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="16"/> </a> [janpstrunn/dotfiles](https://github.com/janpstrunn/dotfiles)
 
-## Contact me
+## 👤 Contact me
 
-- Email: janpstrunn@disroot.org
-- Discord: janpstrunn
+- **Email:** janpstrunn@disroot.org
+- **Discord:** janpstrunn
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
