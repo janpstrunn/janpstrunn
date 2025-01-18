@@ -6,6 +6,7 @@
 - Currently diving into bash scripting
 - Building an distraction-less environment by combining zen philosophies and a minimalist approach
 - Find my thoughts at [mastodon.social/@janpstrunn](https://mastodon.social/@janpstrunn)
+- I write at [janpstrunn.github.io](https://janpstrunn.github.io)
 
 ## 🏗️ Most active repos
 
@@ -31,10 +32,3 @@ mwD8DsrX8gHm4RQP7eo7vobyDaPiqnVYkge9WGnk6qwMQQo=
 =90kQ
 -----END PGP PUBLIC KEY BLOCK-----
 ```
-
-<!--
-TODO
-Include objective
-Include blog
-Include email
--->
