@@ -8,9 +8,11 @@
 - Find my thoughts at [mastodon.social/@janpstrunn](https://mastodon.social/@janpstrunn)
 - I write at [janpstrunn.github.io](https://janpstrunn.github.io)
 
+<!--
 ## 🏗️ Most active repos
 
 1. <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="16"/> </a> [janpstrunn/dotfiles](https://github.com/janpstrunn/dotfiles)
+-->
 
 ## 👤 Contact me
 
