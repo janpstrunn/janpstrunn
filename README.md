@@ -17,7 +17,6 @@
 ## 👤 Contact me
 
 - **Email:** janpstrunn@disroot.org
-- **Discord:** janpstrunn
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
