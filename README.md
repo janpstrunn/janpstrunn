@@ -8,11 +8,17 @@
 - Find my thoughts at [mastodon.social/@janpstrunn](https://mastodon.social/@janpstrunn)
 - I write at [janpstrunn.github.io](https://janpstrunn.github.io)
 
-<!--
-## 🏗️ Most active repos
 
-1. <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="16"/> </a> [janpstrunn/dotfiles](https://github.com/janpstrunn/dotfiles)
--->
+## 🏗️ I'm the maintainer of
+
+1. <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="16"/> </a> [janpstrunn/dotfiles](https://github.com/janpstrunn/dotfiles): Configuration files for various Linux softwares, Arch Linux, Qtile and Hyprland.
+2. <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" height="16" alt="GNU Bash" /></a>[janpstrunn/links](https://github.com/janpstrunn/links): **A browser homepage:** Feature your favorite links beautifuly and manage them using JSON.
+3. <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" height="16" alt="GNU Bash" /></a>[janpstrunn/pass](https://github.com/janpstrunn/pass): A modern CLI password manager that follows the UNIX philosophy.
+4. <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" height="16" alt="GNU Bash" /></a>[janpstrunn/pass-otp](https://github.com/janpstrunn/pass-otp): An OTP extension for [janpstrunn/pass](https://github.com/janpstrunn/pass).
+5. <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" height="16" alt="GNU Bash" /></a>[janpstrunn/pass-tomb](https://github.com/janpstrunn/pass-tomb): An [tomb](https://dyne.org/tomb/) extension for [janpstrunn/pass](https://github.com/janpstrunn/pass).
+6. <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" height="16" alt="GNU Bash" /></a>[janpstrunn/pass-rofi](https://github.com/janpstrunn/pass-rofi): An [rofi](https://github.com/davatorium/rofi) extension for [janpstrunn/pass](https://github.com/janpstrunn/pass).
+7. <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" height="16" alt="GNU Bash" /></a>[janpstrunn/forg](https://github.com/janpstrunn/forg): A file organizer that allows to organize and move files based on filetype or any other rule, such as naming conventions. 
+8. 🪷 [janpstrunn/elegantvagrant](https://github.com/janpstrunn/elegantvagrant): Beautiful dark and purplish theme for various Linux softwares.
 
 ## 👤 Contact me
 
